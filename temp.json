@@ -1,0 +1,11 @@
+{
+    "name":"lihongsong",
+    "age":23,
+    "hansome":true,
+    "tempArray":["1","2","3"],
+    "exparam":{
+         "a":1,
+         "b":2,
+         "c":"3"
+    }
+}
